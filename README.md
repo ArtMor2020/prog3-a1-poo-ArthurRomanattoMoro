@@ -8,3 +8,5 @@ Por exemplo, no caso do laragon o caminho para o arquivo 'index.php' deve ser 'C
 Após isso acessar o servidor local, no caso do laragon 'http://localhost'
 
 Um arquivo de debug chamado 'listUsers.php' pode ser abilitado, exibindo os usuarios registrados e dando a opção de apagar o arquivo que os armazena.
+
+Caso os usuarios não estejam sendo criados, é necessario mudar as permissoes da pasta 'data' para todos terem acesso total.
